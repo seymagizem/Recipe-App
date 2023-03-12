@@ -1,9 +1,4 @@
-//
-//  RecipeTabView.swift
-//  Recipe List App
-//
-//  Created by Brian Nguyen on 2022-11-25.
-//
+
 
 import SwiftUI
 
