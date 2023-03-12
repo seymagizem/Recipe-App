@@ -1,9 +1,4 @@
-//
-//  FeaturedView.swift
-//  Recipe List App
-//
-//  Created by Brian Nguyen on 2022-11-26.
-//
+
 
 import SwiftUI
 
