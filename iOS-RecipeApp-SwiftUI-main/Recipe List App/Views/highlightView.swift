@@ -1,9 +1,4 @@
-//
-//  highlightView.swift
-//  Recipe List App
-//
-//  Created by Brian Nguyen on 2022-11-28.
-//
+
 
 import SwiftUI
 
